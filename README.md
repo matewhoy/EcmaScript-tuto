@@ -1,2 +1,2 @@
 # EcmaScript_tuto
-This is an excercises using EcmaScript 6,7,8,9,10
+These are some examples of EcmaScript 6,7,8,9,10
